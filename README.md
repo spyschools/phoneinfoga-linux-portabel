@@ -4,11 +4,16 @@ $ git clone https://github.com/spyschools/phoneinfoga-linux-portabel.git
 
 $ cd phoneinfoga-linux-portabel
 
+$ tar -xvzf phoneinfoga.tar.gz
+
+$ sudo rm phoneinfoga-linux-portabel.tar.gz
+
 $ ./phoneinfoga --help
 
 $ ./phoneinfoga -v
 
 $ ./phoneinfoga -h
 
+source : 
 https://sundowndev.github.io/phoneinfoga/
 https://github.com/sundowndev/PhoneInfoga/releases
