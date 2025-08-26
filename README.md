@@ -10,6 +10,9 @@ $ unzip phoneinfoga-linux-portabel.zip
 
 $ rm phoneinfoga-linux-portabel.zip
 
+$ cd phoneinfoga-linux-portabel  
+
+
 $ ./phoneinfoga --help
 
 $ ./phoneinfoga -v
