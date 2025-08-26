@@ -6,9 +6,9 @@ $ git clone https://github.com/spyschools/phoneinfoga-linux-portabel.git
 
 $ cd phoneinfoga-linux-portabel
 
-$ tar -xvzf phoneinfoga.tar.gz
+$ unzip phoneinfoga-linux-portabel.zip
 
-$ sudo rm phoneinfoga-linux-portabel.tar.gz
+$ rm phoneinfoga-linux-portabel.zip
 
 $ ./phoneinfoga --help
 
