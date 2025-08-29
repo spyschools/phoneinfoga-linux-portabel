@@ -12,12 +12,6 @@ $ rm phoneinfoga-linux-portabel.zip
 
 $ cd phoneinfoga-linux-portabel  
 
-$ sudo mv phoneinfoga /usr/local/bin
-
-$ cd ~
-
-$ rm -rf phoneinfoga-linux-portabel
-
 $ ./phoneinfoga --help
 
 $ ./phoneinfoga -v
